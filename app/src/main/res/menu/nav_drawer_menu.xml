@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:id="@+id/group0">
+        <item
+            android:id="@+id/menu_info"
+            android:icon="@drawable/nav_drawer_menu_setting"
+            android:title="个人信息"/>
+
+        <item
+            android:id="@+id/menu_pwd"
+            android:icon="@drawable/nav_drawer_menu_setting"
+            android:title="修改密码"/>
+    </group>
+    <group android:id="@+id/group1">
+        <item
+            android:id="@+id/menu_setting"
+            android:icon="@drawable/nav_drawer_menu_setting"
+            android:title="设置"/>
+
+        <item
+            android:id="@+id/menu_about"
+            android:icon="@drawable/nav_drawer_menu_setting"
+            android:title="关于"/>
+
+        <item
+            android:id="@+id/menu_exit"
+            android:icon="@drawable/nav_drawer_menu_setting"
+            android:title="退出"/>
+    </group>
+</menu>

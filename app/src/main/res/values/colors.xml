@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- NavigationView的菜单项的文本颜色 -->
+    <color name="nav_drawer_menu_text_color">#434343</color>
+</resources>
